@@ -465,6 +465,10 @@ p.visible,
   grid-column: span 2;
 }
 
+.segueway {
+  margin-bottom: 24px;
+}
+
 .public-caption {
   color: #aaa;
   font-size: 18px;
